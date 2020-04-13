@@ -1,20 +1,20 @@
 webpackJsonp([1],{
 
-/***/ 148:
+/***/ 149:
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(149);
+var content = __webpack_require__(150);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(55)("6b86ae94", content, true, {});
+var update = __webpack_require__(55)("003e4554", content, true, {});
 
 /***/ }),
 
-/***/ 149:
+/***/ 150:
 /***/ (function(module, exports, __webpack_require__) {
 
 var escape = __webpack_require__(59);
@@ -23,21 +23,21 @@ exports = module.exports = __webpack_require__(54)(false);
 
 
 // module
-exports.push([module.i, ".page-group[data-v-03117747]{box-sizing:border-box;position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;background:#004f67;font-family:Arial,Microsoft Yahei}.text-center[data-v-03117747]{text-align:center}.lose-main[data-v-03117747]{background:url(" + escape(__webpack_require__(150)) + ") 0 0 no-repeat;background-size:100%;min-height:540px}.lose-box[data-v-03117747]{width:440px;height:450px;position:absolute;left:50%;top:50%;margin:-225px 0 0 -220px;text-align:center}.lose-box img[data-v-03117747]{margin-bottom:50px;width:80%}.lose-box p[data-v-03117747]{margin:0;color:#fff;line-height:30px;text-align:center;font-size:18px}.lose-box a[data-v-03117747]{width:218px;height:50px;display:block;margin:50px auto 0;border:1px solid #fff;border-radius:3px;text-align:center;line-height:50px;color:#fff;text-decoration:none;transition:all .4s ease-out}.lose-box a[data-v-03117747]:hover{background:#fff;color:#004f67;border-color:transparent}", ""]);
+exports.push([module.i, ".page-group[data-v-0875372a]{box-sizing:border-box;position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;background:#004f67;font-family:Arial,Microsoft Yahei}.text-center[data-v-0875372a]{text-align:center}.lose-main[data-v-0875372a]{background:url(" + escape(__webpack_require__(151)) + ") 0 0 no-repeat;background-size:100%;min-height:540px}.lose-box[data-v-0875372a]{width:440px;height:450px;position:absolute;left:50%;top:50%;margin:-225px 0 0 -220px;text-align:center}.lose-box img[data-v-0875372a]{margin-bottom:50px;width:80%}.lose-box p[data-v-0875372a]{margin:0;color:#fff;line-height:30px;text-align:center;font-size:18px}.lose-box a[data-v-0875372a]{width:218px;height:50px;display:block;margin:50px auto 0;border:1px solid #fff;border-radius:3px;text-align:center;line-height:50px;color:#fff;text-decoration:none;transition:all .4s ease-out}.lose-box a[data-v-0875372a]:hover{background:#fff;color:#004f67;border-color:transparent}", ""]);
 
 // exports
 
 
 /***/ }),
 
-/***/ 150:
+/***/ 151:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1.0.0/static/img/bg.907fb8c.png";
 
 /***/ }),
 
-/***/ 151:
+/***/ 152:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -58,7 +58,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 /***/ }),
 
-/***/ 152:
+/***/ 153:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -76,7 +76,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "lose-box"
   }, [_c('img', {
     attrs: {
-      "src": __webpack_require__(153)
+      "src": __webpack_require__(154)
     }
   }), _vm._v(" "), _c('p', [_vm._v("抱歉，没有找到您请求的页面")]), _vm._v(" "), _c('p', {
     staticClass: "lose-en"
@@ -89,7 +89,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
-/***/ 153:
+/***/ 154:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1.0.0/static/img/404.fc843d9.png";
@@ -100,17 +100,17 @@ module.exports = __webpack_require__.p + "1.0.0/static/img/404.fc843d9.png";
 /***/ (function(module, exports, __webpack_require__) {
 
 function injectStyle (ssrContext) {
-  __webpack_require__(148)
+  __webpack_require__(149)
 }
 var Component = __webpack_require__(10)(
   /* script */
-  __webpack_require__(151),
-  /* template */
   __webpack_require__(152),
+  /* template */
+  __webpack_require__(153),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-03117747",
+  "data-v-0875372a",
   /* moduleIdentifier (server only) */
   null
 )

@@ -336,7 +336,9 @@ var locale = {
     model: 'Model',
     advantages: 'Advantages',
     team: 'Team',
-    paper: 'White Paper'
+    paper: 'White Paper',
+    explorer: 'Blockchain Explorer',
+    documents: 'Documents'
   },
   banner: {
     sologen1: {
@@ -420,13 +422,17 @@ var locale = {
     title: 'Team',
     intr1: {
       p1: 'Captain CEO',
-      p2: 'Chief Researcher, Domestic Head Block Chain Company.'
+      p2: 'Blockchain expert. Chief Researcher, Domestic Head Block Chain Company.'
     },
     intr2: {
-      p1: 'Albert Counselor',
-      p2: 'Chief Architect of Domestic Head Block Chain Company. Graphene Community Developer. '
+      p1: 'Trace CTO',
+      p2: 'Blockchain expert. Former CTO of High Street Fashion, Former Huawei technical expert.'
     },
     intr3: {
+      p1: 'Albert Counselor',
+      p2: 'Blockchain expert. Chief Architect of Domestic Head Block Chain Company. Graphene Community Developer. '
+    },
+    intr4: {
       p1: 'Sundy COO',
       p2: 'Well-known star of Weibo in Blockchain. Former Netease Senior Product Manager'
     }
@@ -452,7 +458,9 @@ var locale = {
     model: '产品模式',
     advantages: '产品优势',
     team: '团队',
-    paper: '白皮书'
+    paper: '白皮书',
+    explorer: '区块链浏览器',
+    documents: '开发文档'
   },
   banner: {
     sologen1: {
@@ -539,10 +547,14 @@ var locale = {
       p2: '区块链布道者，前公信宝首席研究员，前秘猿科技区块链工程师'
     },
     intr2: {
+      p1: 'Trace CTO',
+      p2: '区块链专家，前高街时尚首席技术官，前华为技术专家'
+    },
+    intr3: {
       p1: 'Albert Counselor',
       p2: '区块链专家，前公信宝首席架构师，石墨烯全球区块链技术顾问'
     },
-    intr3: {
+    intr4: {
       p1: 'Sundy COO',
       p2: '知名币圈微博大V，前网易资深运营经理'
     }
