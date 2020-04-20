@@ -1,0 +1,2 @@
+export const SET_HELLO_NAME = 'SET_HELLO_NAME'
+export const SET_HELLO_NAME1 = 'SET_HELLO_NAME1'
