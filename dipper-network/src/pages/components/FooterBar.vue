@@ -17,7 +17,7 @@
         </a>
       </div>
       <div class="des">
-        <p>Copyright © 2018-2019 The Dipper Network</p>
+        <p>Copyright © 2018-2020 The Dipper Network</p>
       </div>
     </div>
     <svg

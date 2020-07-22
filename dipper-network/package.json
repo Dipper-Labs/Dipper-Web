@@ -2,7 +2,7 @@
   "name": "bimaster",
   "version": "1.0.0",
   "description": "Dipper Network",
-  "author": "dippernetworkhq@gmail.com",
+  "author": "dippernetworkfoundation@gmail.com",
   "private": true,
   "scripts": {
     "dev": "cross-env API_ENV=development node build/dev-server.js",
