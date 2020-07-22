@@ -14,97 +14,97 @@ const locale = {
   banner: {
     sologen1: {
       p1: 'DIPPER NETWORK',
-      p2: 'Decentralized Global Inclusive Financial Network'
+      p2: 'Decentralized Financial Network'
     },
     sologen2: {
-      p1: 'DIPPER BANK',
+      p1: 'DIPPER DAPPs',
       p2: 'Make Finance At Your Fingertips'
     },
   },
   about: {
     title1: 'What is Dipper Network?',
     title2: 'Project introduction',
-    p1: "A decentralized global inclusive financial network, focusing on building a cross-chain ecological financial layer, centering on Dipper Bank, enriching the upstream and downstream ecology, and comprehensively improving the efficiency of asset transfer on the chain."
+    p1: "A decentralized financial network, through the improvement of basic financial agreements, to create a cross-chain ecological financial center, improve the efficiency and application value of various assets, so that finance can benefit more people."
   },
   zoology: {
     title1: 'Product Ecology',
-    item1: 'Predicting the market',
-    item2: 'Derivative transaction',
-    item3: 'Borrowing',
-    item4: 'DEX Decentralized Exchange',
-    item5: 'Stable Currency',
-    p1: 'We will use decentralized lending as an entry point to build a high-performance public chain based on the COSMOS SDK. ',
-    p2: 'Based on this, we will issue stable coins, establish a DEX decentralized exchange, and design derivatives trading and forecasting markets.'
+    item1: 'DipBank',
+    item2: 'DipSYN',
+    item3: 'DipDEX',
+    item4: 'DipDER',
+    item5: 'DipUSD',
+    p1: 'Take the decentralized lending DipBank and the synthetic asset DipSYN as the entry point to combine the decentralized exchange DipDEX, ',
+    p2: 'Stable currency DipUSD, derivatives exchange DipDER, etc., build a complete basic financial protocol stack.'
   },
   advantages: {
     title1: 'Product Advantage',
     item1: {
-      title: 'Mining Mode',
-      p: 'Borrowing is mine mining. Users will get the platform TOKEN as a reward as long as they have borrowing behavior on the platform. There are two types of rewards: long-term rewards and irregular rewards. Users with large loan funds and long period of time will receive more rewards.'
+      title: 'Cross-chain Fiance',
+      p: 'Dipper Network will only realize asset cross-chain through the blockchain protocol itself, without the intervention of third-party agencies. In the future, it will connect Ethereum and Polkadot and more heterogeneous networks, so that various assets can be circulated freely and efficiently, and their financial value can be fully utilized.'
     },
     item2: {
       title: 'Community Governance',
-      p: 'After obtaining the platform TOKEN through lending, the user gradually formed a governance committee and participated in voting to modify the market interest rate model, activate global clearing, and contract renewal. Thereby making the platform more open and transparent.'
+      p: 'The basic financial agreement of Dipper Network will share the governance mechanism of the public chain network. By voting to select the corresponding governance committee, the detailed parameters of the corresponding agreement, such as interest rate model, activation of global liquidation, pledge ratio, etc., will be voted to make the agreement more open and Safe and transparent.'
     },
     item3: {
-      title: 'Cross-chain Dinance',
-      p: 'DIPPER NETWORK will only implement asset cross-chaining through the blockchain protocol itself, without the need for third-party involvement. The follow-up will open up COSMOS and POLKADOT and more blockchain networks, so that all kinds of blockchain assets can be efficiently circulated and fully exert their financial value. '
+      title: 'Mining Mode',
+      p: 'In order to promote the development of basic financial agreements, Dipper Network adopts the mining mode: borrowing is mining, trading is mining, synthesis is mining, etc. Users have corresponding behaviors in the agreement, and they will obtain the platform\'s long-term and irregular mechanisms TOKEN incentives. '
     }
   },
   model: {
     title1: 'Ecological Model',
     item1: {
       title: 'Previous',
-      p: 'Lending is mining, users will get DIP as a reward as long as they have borrowing behavior on the platform. And the platform will take out a certain amount of profit and repurchase the DIP, distribute it to the borrowing users, and realize the internal circulation of the platform.'
+      p: 'Prior to the implementation of the cross-chain solution, DipBank, DipDEX, DipSYN and other protocols were deployed to allow the development of the network cycle, and various operation schemes such as mining mode were adopted to realize the internal circulation of Token.'
     },
     item2: {
       title: 'Interim',
-      p: 'DIP will be used as a deduction for the interest on the loan to promote the consumption and circulation of TOKEN. After the user has reached a certain scale, the platform will set up a governance committee, and users with TOKEN can participate in voting to modify the market interest rate model, activate global clearing, and contract renewal. '
+      p: 'Customize the IBC protocol and heterogeneous network cross-chain solutions to realize the seamless circulation of public chain assets. The types and values ​​of tokens that can be processed in the network are even greater. DIP, as a basic handling fee, pledge rights and resource unit, contributes to the positive ecological cycle.'
     },
     item3: {
       title: 'Late',
-      p: 'Research and develop the exclusive public chain of DIPPER based on COSMOS SDK, open cross-chain assets, issue stable currency, design derivatives trading and forecast market. Since then, DIP will also play a greater role as a transaction fee, which in turn will result in greater liquidity and value.'
+      p: 'Deploy DipUSD, DipINS, DipDER and other protocols, and encourage ecological participants and developers to build comprehensive financial services together. Build business alliances, promote assets on the chain, and further expand network effects.'
     }
   },
   "roadMap": {
     "title": "Time Route",
     "map1": {
       "year": "Q1 2020",
-      "event": "Dipper Network Test Network Supports Smart Contracts, Developer Recruitment Program"
+      "event": "The Dipper Network test network is online, supports smart contracts and provides development documents."
     },
     "map2": {
-      "year": "2020 Q2",
-      "event": "Dipper Bank launches large-scale commercial promotion and operation activities, brand building"
+      "year": "2020 Q3",
+      "event": "The Dipper Network mainnet was released, starting node staking and ecological construction."
     },
     "map3": {
       "year": "2020 Q4",
-      "event": "Dipper Network main network release node staking, ecological construction"
+      "event": "Release of DipBank, DipDEX and other agreements for market promotion and operation."
     },
     "map4": {
       "year": "Q2 2021",
-      "event": "DeFi Eco-Component, IBC Agreement, Fusion Boca Developer Incentive Program, Building a Business Alliance"
+      "event": "Customize the IBC protocol and heterogeneous network cross-chain solution, and publish the developer incentive plan."
     },
     "map5": {
       "year": "Q2 2022",
-      "event": "Across the entire network of inclusive financial networks to unite traditional companies, Internet companies and government agencies to promote asset-winding."
+      "event": "Build a complete financial agreement, form a business alliance, and unite various industries to promote assets on the chain."
     }
   },
   team: {
     title: 'Team',
     intr1: {
       p1: 'Captain CEO',
-      p2: 'Blockchain expert. Chief Researcher, Domestic Head Block Chain Company.'
+      p2: 'Blockchain expert. Chief Researcher of GXChain, Engineer at China Mobile Hangzhou R&D Center'
     },
     intr2: {
       p1: 'Trace CTO',
-      p2: 'Blockchain expert. Former CTO of High Street Fashion, Former Huawei technical expert.',
+      p2: 'Internet expert. CTO of High Street Fashion, Former Huawei technical expert.',
     },
     intr3: {
       p1: 'Albert Counselor',
       p2: 'Blockchain expert. Chief Architect of Domestic Head Block Chain Company. Graphene Community Developer. ',
     },
     intr4: {
-      p1: 'Sundy COO',
+      p1: 'Sundy Operator',
       p2: 'Well-known star of Weibo in Blockchain. Former Netease Senior Product Manager',
     },
   },

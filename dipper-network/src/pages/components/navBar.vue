@@ -31,7 +31,7 @@
             <a class="animated fadeInDown" href="#team" @click="scrollIntoView">{{$t("links.team")}}</a>
 
             <a class="animated fadeInDown" href="http://explorer.dippernetwork.com" target="_blank">{{$t("links.explorer")}}</a>
-            <a class="animated fadeInDown" href="https://docsend.com/view/fkddj37" target="_blank">{{$t("links.paper")}}</a>
+            <a class="animated fadeInDown" href="https://github.com/Dipper-Labs/resources/blob/master/whitepaper.pdf" target="_blank">{{$t("links.paper")}}</a>
             <a class="animated fadeInDown" href="https://docs.dippernetwork.com" target="_blank">{{$t("links.documents")}}</a>
 
             <!-- <a class="animated fadeInDown" href @click="scrollIntoView">{{$t("links.paper")}}</a> -->

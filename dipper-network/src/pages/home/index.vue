@@ -23,7 +23,7 @@
             <div class="content">
               <div class="slogen animated fadeInDown">
                 <div class="slogen-2">
-                  <p class="p-1">DIPPER BANK</p>
+                  <p class="p-1">DIPPER DAPPs</p>
                   <p class="p-2">{{$t('banner.sologen2.p2')}}</p>
                 </div>
               </div>
@@ -52,7 +52,7 @@
         </div>
       </div>
     </div>
-    <!--产品生态-->
+    <!--应用生态-->
     <div id="zoology" class="zoology-wrap container">
       <div class="content commom-cont">
         <h2 class="content-title">{{$t('zoology.title1')}}</h2>
@@ -94,7 +94,7 @@
         </div>
       </div>
     </div>
-    <!--产品优势-->
+    <!--项目优势-->
     <div id="advantages" class="advantages-wrap container">
       <div class="content commom-cont">
         <h2 class="content-title">{{$t('advantages.title1')}}</h2>
@@ -127,7 +127,7 @@
         </div>
       </div>
     </div>
-    <!--生态模式-->
+    <!--发展模式-->
     <div id="model" class="model-wrap container">
       <div class="content commom-cont">
         <h2 class="content-title">{{$t('model.title1')}}</h2>
