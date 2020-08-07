@@ -9,6 +9,7 @@ const locale = {
     team: '团队',
     paper: '白皮书',
     explorer: '区块链浏览器',
+    announcement: '官方公告',
     documents: '开发文档'
   },
   banner: {
@@ -17,7 +18,7 @@ const locale = {
       p2: '开放金融网络'
     },
     sologen2: {
-      p1: 'DIPPER NETWORK',
+      p1: 'DIPPER DAPPs',
       p2: '让金融触手可及'
     },
   },
@@ -27,11 +28,11 @@ const locale = {
     p1: "一个去中心化的金融网络，通过构建完善基础金融协议，打造跨链生态的金融中心，提高各类资产的流转效率和应用价值，让金融惠及更多的人。"
   },
   zoology: {
-    title1: '产品生态',
+    title1: '应用生态',
     item1: '借贷协议DipBank',
     item2: '合成资产DipSYN',
-    item3: '去中心化交易所DipDEX',
-    item4: '衍生品交易DipDER',
+    item3: '交易所DipDEX',
+    item4: '衍生品DipDER',
     item5: '稳定币DipUSD',
     p1: ' 以去中心化借贷DipBank与合成资产DipSYN为切入点，组合去中心化交易所DipDEX、',
     p2: ' 稳定币DipUSD、衍生品交易所DipDER等，构建完善的基础金融协议栈。'
@@ -63,7 +64,7 @@ const locale = {
     },
     item3: {
       title: '后期',
-      p: '部署DipUSD、DipINS、DipDER等协议，并鼓励生态参与者、开发者一起搭建完善的金融服务。构建商业联盟，推动资产上链，进一步扩大网络效应'
+      p: '部署DipUSD、DipINS、DipDER等协议，并鼓励生态参与者、开发者一起搭建完善的金融服务。构建商业联盟，推动资产上链，进一步扩大网络效应。'
     }
   },
   "roadMap": {
@@ -78,7 +79,7 @@ const locale = {
     },
     "map3": {
       "year": "2020年Q4",
-      "event": "DipBank、DipDEX等协议的发布，进行市场推广和运营。"
+      "event": "DipBank、DipSYN等协议的发布，进行市场推广和运营。"
     },
     "map4": {
       "year": "2021年Q2",
@@ -104,8 +105,8 @@ const locale = {
       p2: '区块链专家，前公信宝首席架构师，石墨烯全球区块链技术顾问',
     },
     intr4: {
-      p1: 'Sundy Operator',
-      p2: '知名币圈微博KOL，前网易资深运营经理'
+      p1: 'Joy COO',
+      p2: '运营总监，国际知名教育机构COO， IB国际教育认证专家',
     },
   },
   footer: {

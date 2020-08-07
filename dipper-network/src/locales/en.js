@@ -9,6 +9,7 @@ const locale = {
     team: 'Team',
     paper: 'White Paper',
     explorer: 'Blockchain Explorer',
+    announcement: 'Announcement',
     documents: 'Documents'
   },
   banner: {
@@ -69,7 +70,7 @@ const locale = {
   "roadMap": {
     "title": "Time Route",
     "map1": {
-      "year": "Q1 2020",
+      "year": "2020 Q1",
       "event": "The Dipper Network test network is online, supports smart contracts and provides development documents."
     },
     "map2": {
@@ -81,11 +82,11 @@ const locale = {
       "event": "Release of DipBank, DipDEX and other agreements for market promotion and operation."
     },
     "map4": {
-      "year": "Q2 2021",
+      "year": "2021 Q2",
       "event": "Customize the IBC protocol and heterogeneous network cross-chain solution, and publish the developer incentive plan."
     },
     "map5": {
-      "year": "Q2 2022",
+      "year": "2022 Q1",
       "event": "Build a complete financial agreement, form a business alliance, and unite various industries to promote assets on the chain."
     }
   },
@@ -93,7 +94,7 @@ const locale = {
     title: 'Team',
     intr1: {
       p1: 'Captain CEO',
-      p2: 'Blockchain expert. Chief Researcher of GXChain, Engineer at China Mobile Hangzhou R&D Center'
+      p2: 'Blockchain expert. Chief Researcher of GXChain, Engineer at China Mobile Hangzhou R&D Center.'
     },
     intr2: {
       p1: 'Trace CTO',
@@ -104,8 +105,8 @@ const locale = {
       p2: 'Blockchain expert. Chief Architect of Domestic Head Block Chain Company. Graphene Community Developer. ',
     },
     intr4: {
-      p1: 'Sundy Operator',
-      p2: 'Well-known star of Weibo in Blockchain. Former Netease Senior Product Manager',
+      p1: 'Joy COO',
+      p2: 'COO of an internationally renowned educational institution, IB International Education Certification Expert',
     },
   },
   footer: {
