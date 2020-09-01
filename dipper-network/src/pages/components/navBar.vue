@@ -65,8 +65,13 @@
         <div class="navbar-h5-menu-item">
           <a class="navbar-link" href="#home" @click="scrollIntoView">{{$t("links.home")}}</a>
           <a class="navbar-link" href="#zoology" @click="scrollIntoView">{{$t("links.zoology")}}</a>
+          <a class="navbar-link" href="#advantages" @click="scrollIntoView">{{$t("links.advantages")}}</a>
           <a class="navbar-link" href="#model" @click="scrollIntoView">{{$t("links.model")}}</a>
           <a class="navbar-link" href="#team" @click="scrollIntoView">{{$t("links.team")}}</a>
+          <a class="navbar-link" href="http://explorer.dippernetwork.com" target="_blank">{{$t("links.explorer")}}</a>
+          <a class="navbar-link" href="https://github.com/Dipper-Labs/resources" target="_blank">{{$t("links.paper")}}</a>
+          <a class="navbar-link" href="https://twitter.com/nokodemionYan" target="_blank">{{$t("links.announcement")}}</a>
+          <a class="navbar-link" href="https://docs.dippernetwork.com" target="_blank">{{$t("links.documents")}}</a>
           <!-- <a class="navbar-link" href @click="scrollIntoView">{{$t("links.paper")}}</a> -->
           <span class="navbar-link switch-lang" @click="switchLang">{{$t("lang")}}</span>
         </div>

@@ -176,28 +176,28 @@
         </div>
         <div class="des-2">
           <div class="intr-cont item item-1 animate-fadeInUp animated">
-            <img src="../../assets/img/h_11.png" alt />
+            <img src="../../assets/img/h_11.jpeg" alt />
             <div class="intr">
               <p class="intr-title">{{ $t("team.intr1.p1")}}</p>
               <p>{{ $t("team.intr1.p2")}}</p>
             </div>
           </div>
           <div class="intr-cont item animate-fadeInUp animated">
-            <img src="../../assets/img/h_44.png" alt />
+            <img src="../../assets/img/h_22.jpeg" alt />
             <div class="intr">
               <p class="intr-title">{{ $t("team.intr2.p1")}}</p>
               <p>{{ $t("team.intr2.p2")}}</p>
             </div>
           </div>
           <div class="intr-cont item animate-fadeInUp animated">
-            <img src="../../assets/img/h_22.png" alt />
+            <img src="../../assets/img/h_33.jpeg" alt />
             <div class="intr">
               <p class="intr-title">{{ $t("team.intr3.p1")}}</p>
               <p>{{ $t("team.intr3.p2")}}</p>
             </div>
           </div>
           <div class="intr-cont item animate-fadeInUp animated">
-            <img src="../../assets/img/h_333.png" alt />
+            <img src="../../assets/img/h_44.jpeg" alt />
             <div class="intr">
               <p class="intr-title">{{ $t("team.intr4.p1")}}</p>
               <p>{{ $t("team.intr4.p2")}}</p>

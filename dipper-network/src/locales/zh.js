@@ -98,7 +98,7 @@ const locale = {
     },
     intr2: {
       p1: 'Trace CTO',
-      p2: '互联网专家，高街时尚首席技术官，前华为技术专家',
+      p2: '互联网专家，前华为技术专家',
     },
     intr3: {
       p1: 'Albert Counselor',

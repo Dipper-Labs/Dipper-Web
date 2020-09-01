@@ -9,11 +9,14 @@
         <a href>
           <img src="../../assets/img/footer/twitter.png" alt />
         </a>-->
-        <a href>
+        <a href="https://t.me/DipperNetworkOfficial" target="_blank">
           <img src="../../assets/img/footer/telegram.png" alt />
         </a>
         <a href="mailto:dippernetworkhq@gmail.com">
           <img src="../../assets/img/footer/email.png" alt />
+        </a>
+        <a href="https://www.linkedin.com/company/dipper-network" target="_blank">
+          <img src="../../assets/img/footer/linkedin.png" alt />
         </a>
       </div>
       <div class="des">
