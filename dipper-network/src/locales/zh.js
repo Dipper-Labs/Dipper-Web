@@ -74,7 +74,7 @@ const locale = {
       "event": "Dipper Network测试网上线，支持智能合约，提供开发文档。"
     },
     "map2": {
-      "year": "2020年Q3",
+      "year": "2020年Q4",
       "event": "Dipper Network主网发布，开启节点staking与生态建设。"
     },
     "map3": {

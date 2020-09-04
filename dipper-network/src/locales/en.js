@@ -74,7 +74,7 @@ const locale = {
       "event": "The Dipper Network test network is online, supports smart contracts and provides development documents."
     },
     "map2": {
-      "year": "2020 Q3",
+      "year": "2020 Q4",
       "event": "The Dipper Network mainnet was released, starting node staking and ecological construction."
     },
     "map3": {

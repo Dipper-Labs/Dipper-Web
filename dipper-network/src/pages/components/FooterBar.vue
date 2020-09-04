@@ -12,7 +12,7 @@
         <a href="https://t.me/DipperNetworkOfficial" target="_blank">
           <img src="../../assets/img/footer/telegram.png" alt />
         </a>
-        <a href="mailto:dippernetworkhq@gmail.com">
+        <a href="mailto:bussiness@dippernetwork.com">
           <img src="../../assets/img/footer/email.png" alt />
         </a>
         <a href="https://www.linkedin.com/company/dipper-network" target="_blank">
