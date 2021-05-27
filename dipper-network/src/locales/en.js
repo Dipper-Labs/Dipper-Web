@@ -94,15 +94,15 @@ const locale = {
     title: 'Team',
     intr1: {
       p1: 'Captain CEO',
-      p2: 'Blockchain expert. Chief Researcher of GXChain, Engineer at China Mobile Hangzhou R&D Center.'
+      p2: 'Blockchain expert. Researcher of BlockChain, multiple entrepreneurs, worked in many well-known blockchain companies.'
     },
     intr2: {
       p1: 'Trace CTO',
-      p2: 'Internet expert. CTO of High Street Fashion, Former Huawei technical expert.',
+      p2: 'Blockchain expert, former Huawei technical expert, served as CTO of many Internet companies.',
     },
     intr3: {
       p1: 'Albert Counselor',
-      p2: 'Blockchain expert. Chief Architect of Domestic Head Block Chain Company. Graphene Community Developer. ',
+      p2: 'Blockchain expert. Chief Architect of Domestic Head BlockChain Company. Graphene Community Developer. ',
     },
     intr4: {
       p1: 'Joy COO',
