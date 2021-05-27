@@ -78,11 +78,11 @@ const locale = {
       "event": "The Dipper Network mainnet was released, starting node staking and ecological construction."
     },
     "map3": {
-      "year": "2020 Q4",
+      "year": "2021 Q2",
       "event": "Release of DipBank, DipDEX and other agreements for market promotion and operation."
     },
     "map4": {
-      "year": "2021 Q2",
+      "year": "2021 Q3",
       "event": "Customize the IBC protocol and heterogeneous network cross-chain solution, and publish the developer incentive plan."
     },
     "map5": {

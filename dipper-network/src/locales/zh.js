@@ -78,11 +78,11 @@ const locale = {
       "event": "Dipper Network主网发布，开启节点staking与生态建设。"
     },
     "map3": {
-      "year": "2020年Q4",
+      "year": "2021年Q2",
       "event": "DipBank、DipSYN等协议的发布，进行市场推广和运营。"
     },
     "map4": {
-      "year": "2021年Q2",
+      "year": "2021年Q3",
       "event": "定制IBC协议和异构网络跨链方案，发布开发者激励计划。"
     },
     "map5": {
